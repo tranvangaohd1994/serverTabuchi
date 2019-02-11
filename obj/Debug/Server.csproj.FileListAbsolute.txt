@@ -1,0 +1,1282 @@
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\bin\Debug\SiemensOPCdotNETLib.dll
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.Form1.resources
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\dat\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Dat\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Dat\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Dat\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Dat\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Dat\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Dat\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Dat\Desktop\Server\Server\obj\Debug\Server.pdb
+G:\Server\bin\Debug\Server.exe.config
+G:\Server\obj\Debug\Server.exe
+G:\Server\obj\Debug\Server.pdb
+G:\Server\bin\Debug\Server.exe
+G:\Server\bin\Debug\Server.pdb
+G:\Server\obj\Debug\Server.Form1.resources
+G:\Server\obj\Debug\Server.Properties.Resources.resources
+G:\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server\obj\Debug\Server.Form1.resources
+C:\Users\Administrator\Desktop\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server\obj\Debug\Server.pdb
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.ConfigIp.resources
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.Login.resources
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\Dat\Desktop\Server\bin\Debug\Server.exe
+C:\Users\Dat\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.Form1.resources
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.exe
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.pdb
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.About.resources
+C:\Users\Dat\Desktop\Server\obj\Debug\Server.Help.resources
+D:\Server\bin\Debug\Server.exe.config
+D:\Server\obj\Debug\Server.exe
+D:\Server\obj\Debug\Server.pdb
+C:\Users\ASElab\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\ASElab\Desktop\Server\bin\Debug\Server.exe
+C:\Users\ASElab\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.About.resources
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.ConfigIp.resources
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.Form1.resources
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.Help.resources
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.Login.resources
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.exe
+C:\Users\ASElab\Desktop\Server\obj\Debug\Server.pdb
+C:\Users\ASElab\Desktop\Server_DV\bin\Debug\Server.exe.config
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.exe
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.pdb
+C:\Users\ASElab\Desktop\Server_DV\bin\Debug\Server.exe
+C:\Users\ASElab\Desktop\Server_DV\bin\Debug\Server.pdb
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.About.resources
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.ConfigIp.resources
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.Form1.resources
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.Help.resources
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.Login.resources
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASElab\Desktop\Server_DV\obj\Debug\Server.csproj.GenerateResource.Cache
+\\ASELAB-PC\Tabuchi\30072015\Server\bin\Debug\Server.exe.config
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.exe
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.pdb
+\\ASELAB-PC\Tabuchi\30072015\Server\bin\Debug\Server.exe
+\\ASELAB-PC\Tabuchi\30072015\Server\bin\Debug\Server.pdb
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.About.resources
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.ConfigIp.resources
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.Form1.resources
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.Help.resources
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.Login.resources
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.Properties.Resources.resources
+\\ASELAB-PC\Tabuchi\30072015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\30072015\Server\bin\Debug\Server.exe.config
+E:\Tabuchi\30072015\Server\bin\Debug\Server.exe
+E:\Tabuchi\30072015\Server\bin\Debug\Server.pdb
+E:\Tabuchi\30072015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\30072015\Server\obj\Debug\Server.About.resources
+E:\Tabuchi\30072015\Server\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\30072015\Server\obj\Debug\Server.Form1.resources
+E:\Tabuchi\30072015\Server\obj\Debug\Server.Help.resources
+E:\Tabuchi\30072015\Server\obj\Debug\Server.Login.resources
+E:\Tabuchi\30072015\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\30072015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\30072015\Server\obj\Debug\Server.exe
+E:\Tabuchi\30072015\Server\obj\Debug\Server.pdb
+E:\Tabuchi\31072015\Server\bin\Debug\Server.exe.config
+E:\Tabuchi\31072015\Server\obj\Debug\Server.exe
+E:\Tabuchi\31072015\Server\obj\Debug\Server.pdb
+E:\Tabuchi\31072015\Server\bin\Debug\Server.exe
+E:\Tabuchi\31072015\Server\bin\Debug\Server.pdb
+E:\Tabuchi\31072015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\31072015\Server\obj\Debug\Server.About.resources
+E:\Tabuchi\31072015\Server\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\31072015\Server\obj\Debug\Server.Form1.resources
+E:\Tabuchi\31072015\Server\obj\Debug\Server.Help.resources
+E:\Tabuchi\31072015\Server\obj\Debug\Server.Login.resources
+E:\Tabuchi\31072015\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\31072015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\31072015\Server 2\bin\Debug\Server.exe.config
+E:\Tabuchi\31072015\Server 2\bin\Debug\Server.exe
+E:\Tabuchi\31072015\Server 2\bin\Debug\Server.pdb
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.About.resources
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.Form1.resources
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.Help.resources
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.Login.resources
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.exe
+E:\Tabuchi\31072015\Server 2\obj\Debug\Server.pdb
+E:\Tabuchi\01082015\Server\bin\Debug\Server.exe.config
+E:\Tabuchi\01082015\Server\bin\Debug\Server.exe
+E:\Tabuchi\01082015\Server\bin\Debug\Server.pdb
+E:\Tabuchi\01082015\Server\obj\Debug\Server.About.resources
+E:\Tabuchi\01082015\Server\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\01082015\Server\obj\Debug\Server.Form1.resources
+E:\Tabuchi\01082015\Server\obj\Debug\Server.Help.resources
+E:\Tabuchi\01082015\Server\obj\Debug\Server.Login.resources
+E:\Tabuchi\01082015\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\01082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\01082015\Server\obj\Debug\Server.exe
+E:\Tabuchi\01082015\Server\obj\Debug\Server.pdb
+E:\Tabuchi\01082015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\03082015\Server\bin\Debug\Server.exe.config
+E:\Tabuchi\03082015\Server\bin\Debug\Server.exe
+E:\Tabuchi\03082015\Server\bin\Debug\Server.pdb
+E:\Tabuchi\03082015\Server\obj\Debug\Server.About.resources
+E:\Tabuchi\03082015\Server\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\03082015\Server\obj\Debug\Server.Form1.resources
+E:\Tabuchi\03082015\Server\obj\Debug\Server.Help.resources
+E:\Tabuchi\03082015\Server\obj\Debug\Server.Login.resources
+E:\Tabuchi\03082015\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\03082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\03082015\Server\obj\Debug\Server.exe
+E:\Tabuchi\03082015\Server\obj\Debug\Server.pdb
+E:\Tabuchi\03082015\Server 2\bin\Debug\Server.exe.config
+E:\Tabuchi\03082015\Server 2\bin\Debug\Server.exe
+E:\Tabuchi\03082015\Server 2\bin\Debug\Server.pdb
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.About.resources
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.Form1.resources
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.Help.resources
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.Login.resources
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.exe
+E:\Tabuchi\03082015\Server 2\obj\Debug\Server.pdb
+E:\Tabuchi\04082015\Server 2\bin\Debug\Server.exe.config
+E:\Tabuchi\04082015\Server 2\bin\Debug\Server.exe
+E:\Tabuchi\04082015\Server 2\bin\Debug\Server.pdb
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.About.resources
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.Form1.resources
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.Help.resources
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.Login.resources
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.exe
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.pdb
+E:\Tabuchi\04082015\Server 2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\05082015\Server 2\bin\Debug\Server.exe.config
+E:\Tabuchi\05082015\Server 2\bin\Debug\Server.exe
+E:\Tabuchi\05082015\Server 2\bin\Debug\Server.pdb
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.About.resources
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.Form1.resources
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.Help.resources
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.Login.resources
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.exe
+E:\Tabuchi\05082015\Server 2\obj\Debug\Server.pdb
+E:\Tabuchi\08072015\Server\bin\Debug\Server.exe.config
+E:\Tabuchi\08072015\Server\bin\Debug\Server.exe
+E:\Tabuchi\08072015\Server\bin\Debug\Server.pdb
+E:\Tabuchi\08072015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\08072015\Server\obj\Debug\Server.About.resources
+E:\Tabuchi\08072015\Server\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\08072015\Server\obj\Debug\Server.Form1.resources
+E:\Tabuchi\08072015\Server\obj\Debug\Server.Help.resources
+E:\Tabuchi\08072015\Server\obj\Debug\Server.Line_detail.resources
+E:\Tabuchi\08072015\Server\obj\Debug\Server.Login.resources
+E:\Tabuchi\08072015\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\08072015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\08072015\Server\obj\Debug\Server.exe
+E:\Tabuchi\08072015\Server\obj\Debug\Server.pdb
+E:\Tabuchi\08082015\Server\bin\Debug\Server.exe.config
+E:\Tabuchi\08082015\Server\bin\Debug\Server.exe
+E:\Tabuchi\08082015\Server\bin\Debug\Server.pdb
+E:\Tabuchi\08082015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\08082015\Server\obj\Debug\Server.About.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.Form1.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.Help.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.Line_detail.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.Login.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\08082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\08082015\Server\obj\Debug\Server.exe
+E:\Tabuchi\08082015\Server\obj\Debug\Server.pdb
+C:\Users\Duc\Desktop\08082015\Server\bin\Debug\Server.exe.config
+C:\Users\Duc\Desktop\08082015\Server\bin\Debug\Server.exe
+C:\Users\Duc\Desktop\08082015\Server\bin\Debug\Server.pdb
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.About.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.ConfigIp.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.Form1.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.Help.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.Line_detail.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.Login.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.Time_auto.resources
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.exe
+C:\Users\Duc\Desktop\08082015\Server\obj\Debug\Server.pdb
+C:\Users\D\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\D\Desktop\Server\obj\Debug\Server.exe
+C:\Users\D\Desktop\Server\obj\Debug\Server.pdb
+C:\Users\D\Desktop\Server\bin\Debug\Server.exe
+C:\Users\D\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\D\Desktop\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\D\Desktop\Server\obj\Debug\Server.About.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.ConfigIp.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.Form1.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.Help.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.Line_detail.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.Login.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.Time_auto.resources
+C:\Users\D\Desktop\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\10082015\Server2\bin\Debug\Server.exe.config
+E:\Tabuchi\10082015\Server2\obj\Debug\Server.exe
+E:\Tabuchi\10082015\Server2\obj\Debug\Server.pdb
+D:\10082015\tabuchi\10082015\Server2\bin\Debug\Server.exe.config
+D:\10082015\tabuchi\10082015\Server2\bin\Debug\Server.exe
+D:\10082015\tabuchi\10082015\Server2\bin\Debug\Server.pdb
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.About.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.ConfigIp.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.Form1.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.Help.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.Line_detail.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.Login.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.Properties.Resources.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.Time_auto.resources
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.exe
+D:\10082015\tabuchi\10082015\Server2\obj\Debug\Server.pdb
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.About.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.ConfigIp.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.Form1.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.Help.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.Line_detail.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.Login.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.Time_auto.resources
+C:\Users\Duc\Desktop\08082015\Server2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\11082015\Server2\bin\Debug\Server.exe.config
+E:\Tabuchi\11082015\Server2\bin\Debug\Server.exe
+E:\Tabuchi\11082015\Server2\bin\Debug\Server.pdb
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.About.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.Form1.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.Help.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.Line_status.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.Login.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.exe
+E:\Tabuchi\11082015\Server2\obj\Debug\Server.pdb
+\\ASELAB-PC\Tabuchi\12082015\Server\bin\Debug\Server.exe.config
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.exe
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.pdb
+\\ASELAB-PC\Tabuchi\12082015\Server\bin\Debug\Server.exe
+\\ASELAB-PC\Tabuchi\12082015\Server\bin\Debug\Server.pdb
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.About.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.ConfigIp.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.Form1.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.Help.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.Line_status.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.Login.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.Properties.Resources.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.Time_auto.resources
+\\ASELAB-PC\Tabuchi\12082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\12082015\Server\bin\Debug\Server.exe.config
+E:\Tabuchi\12082015\Server\bin\Debug\Server.exe
+E:\Tabuchi\12082015\Server\bin\Debug\Server.pdb
+E:\Tabuchi\12082015\Server\obj\Debug\Server.About.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.Form1.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.Help.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.Line_status.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.Login.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\12082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\12082015\Server\obj\Debug\Server.exe
+E:\Tabuchi\12082015\Server\obj\Debug\Server.pdb
+D:\Tabuchi\12082015\Server\bin\Debug\Server.exe.config
+D:\Tabuchi\12082015\Server\bin\Debug\Server.exe
+D:\Tabuchi\12082015\Server\bin\Debug\Server.pdb
+D:\Tabuchi\12082015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Tabuchi\12082015\Server\obj\Debug\Server.About.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.Form1.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.Help.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.Line_status.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.Login.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\12082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Tabuchi\12082015\Server\obj\Debug\Server.exe
+D:\Tabuchi\12082015\Server\obj\Debug\Server.pdb
+D:\Tabuchi\13082015\Server\bin\Debug\Server.exe.config
+D:\Tabuchi\13082015\Server\bin\Debug\Server.exe
+D:\Tabuchi\13082015\Server\bin\Debug\Server.pdb
+D:\Tabuchi\13082015\Server\obj\Debug\Server.About.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.Form1.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.Help.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.Line_status.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.Login.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\13082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Tabuchi\13082015\Server\obj\Debug\Server.exe
+D:\Tabuchi\13082015\Server\obj\Debug\Server.pdb
+D:\Tabuchi\13082015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Tabuchi\14082015\Server\bin\Debug\Server.exe.config
+D:\Tabuchi\14082015\Server\bin\Debug\Server.exe
+D:\Tabuchi\14082015\Server\bin\Debug\Server.pdb
+D:\Tabuchi\14082015\Server\obj\Debug\Server.About.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.Form1.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.Help.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.Line_status.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.Login.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\14082015\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Tabuchi\14082015\Server\obj\Debug\Server.exe
+D:\Tabuchi\14082015\Server\obj\Debug\Server.pdb
+D:\Tabuchi\14082015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Tabuchi\14082015\Server 2\bin\Debug\Server.exe.config
+D:\Tabuchi\14082015\Server 2\bin\Debug\Server.exe
+D:\Tabuchi\14082015\Server 2\bin\Debug\Server.pdb
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.About.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.Form1.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.Help.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.Line_status.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.Login.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.exe
+D:\Tabuchi\14082015\Server 2\obj\Debug\Server.pdb
+E:\Tabuchi\15082015\Server 2\bin\Debug\Server.exe.config
+E:\Tabuchi\15082015\Server 2\bin\Debug\Server.exe
+E:\Tabuchi\15082015\Server 2\bin\Debug\Server.pdb
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.About.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.Form1.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.Help.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.Line_status.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.Login.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.exe
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.pdb
+E:\Tabuchi\15082015\Server 2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\16082015\Server 2\bin\Debug\Server.exe.config
+E:\Tabuchi\16082015\Server 2\bin\Debug\Server.exe
+E:\Tabuchi\16082015\Server 2\bin\Debug\Server.pdb
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.About.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.Form1.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.Help.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.Line_status.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.Login.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.exe
+E:\Tabuchi\16082015\Server 2\obj\Debug\Server.pdb
+C:\Users\Duc\Desktop\16082015\Server 2\bin\Debug\Server.exe.config
+C:\Users\Duc\Desktop\16082015\Server 2\bin\Debug\Server.exe
+C:\Users\Duc\Desktop\16082015\Server 2\bin\Debug\Server.pdb
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.About.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.ConfigIp.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.Form1.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.Help.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.Line_status.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.Login.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.Time_auto.resources
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.exe
+C:\Users\Duc\Desktop\16082015\Server 2\obj\Debug\Server.pdb
+D:\Tabuchi\17082015\Server 2\bin\Debug\Server.exe.config
+D:\Tabuchi\17082015\Server 2\bin\Debug\Server.exe
+D:\Tabuchi\17082015\Server 2\bin\Debug\Server.pdb
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.About.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.Form1.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.Help.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.Line_status.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.Login.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.exe
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.pdb
+D:\Tabuchi\17082015\Server 2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\19082015\Server 2\bin\Debug\Server.exe.config
+E:\Tabuchi\19082015\Server 2\obj\Debug\Server.exe
+E:\Tabuchi\19082015\Server 2\obj\Debug\Server.pdb
+C:\Users\Duc\Desktop\19082015\Server 2 Origin\bin\Debug\Server.exe.config
+C:\Users\Duc\Desktop\19082015\Server 2 Origin\obj\Debug\Server.exe
+C:\Users\Duc\Desktop\19082015\Server 2 Origin\obj\Debug\Server.pdb
+E:\Tabuchi\19082015\Server 2 Origin\bin\Debug\Server.exe.config
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.exe
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.pdb
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.About.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.Form1.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.Help.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.Line_status.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.Login.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\19082015\Server 2 Origin\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\22082015\Server 2 Origin\bin\Debug\Server.exe.config
+E:\Tabuchi\22082015\Server 2 Origin\bin\Debug\Server.exe
+E:\Tabuchi\22082015\Server 2 Origin\bin\Debug\Server.pdb
+E:\Tabuchi\22082015\Server 2 Origin\bin\Debug\ModbusTCP.dll
+E:\Tabuchi\22082015\Server 2 Origin\bin\Debug\ModbusTCP.pdb
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.About.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.Form1.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.Help.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.Line_status.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.Login.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.exe
+E:\Tabuchi\22082015\Server 2 Origin\obj\Debug\Server.pdb
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.Form1.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.Line_status.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Tabuchi\26082015\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.Form1.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Tabuchi\31082015\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.Form1.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Tabuchi\03092015\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Server\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Server\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Server\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.Form1.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Server\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Tabuchi\04092015\Server on TBC\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Tabuchi\04092015\Server on TBC\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Tabuchi\04092015\Server on TBC\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Tabuchi\04092015\Server on TBC\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Form1.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Tabuchi\04092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Tabuchi\09092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\12092015\Server on TBC - dang sua\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\Users\VND\Desktop\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.exe
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.exe
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\ON TABUCHI\FIX\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\New folder\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\New folder\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\New folder\Server v2\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\New folder\Server v2\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.exe
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\MAIN PROJECT\Tabuchi\20092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\MAIN PROJECT\Tabuchi\23092015\Server v3\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Tabuchi\23092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.exe
+E:\MAIN PROJECT\Tabuchi\29092015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.exe
+G:\PROGRAM\VISUALSTUDIO\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Tabuchi\02102015\Server v4\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\TABUCHI\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.exe.config
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.exe
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\bin\Debug\Server.pdb
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.About.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.ConfigIp.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Main_form.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.FormAllDetai.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Help.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Login.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Properties.Resources.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.Time_auto.resources
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.exe
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.pdb
+D:\Project Tabuchi\27_10_2015\Server v5\Server 2 Origin_Modbus\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.exe
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.exe
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Project Tabuchi\27_10_2015\Server v5 - Copy\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.exe.config
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csproj.ResolveComReference.cache
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.exe
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.pdb
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.exe
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\bin\Debug\Server.pdb
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.About.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.ConfigIp.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Main_form.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.FormAllDetai.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Help.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Login.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Properties.Resources.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.Time_auto.resources
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\PROGRAM\VISUALSTUDIO\Tabuchi\Server 2 Origin_Modbus_24_4_2016\obj\Debug\Server.PinConfig.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160425\bin\Debug\Server.exe.config
+C:\Users\VND\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\VND\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.exe
+C:\Users\VND\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\bin\Debug\Server.exe.config
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\bin\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\bin\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.About.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.ConfigIp.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.Main_form.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.FormAllDetai.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.Help.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.Login.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.PinConfig.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.Properties.Resources.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.Time_auto.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160425\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\bin\Debug\Server.exe.config
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.pdb
+C:\Users\VND\Dropbox\tabuchi\Server\20160426\bin\Debug\Server.exe.config
+C:\Users\VND\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\VND\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.exe
+C:\Users\VND\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\bin\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\bin\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.About.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.ConfigIp.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.Main_form.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.FormAllDetai.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.Help.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.Login.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.PinConfig.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.Properties.Resources.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.Time_auto.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160426\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\bin\Debug\Server.exe.config
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\bin\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\bin\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.About.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.ConfigIp.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.Main_form.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.FormAllDetai.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.Help.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.Login.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.PinConfig.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.Properties.Resources.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.Time_auto.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160427\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\bin\Debug\Server.exe.config
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.exe
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.pdb
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\bin\Debug\Server.exe
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\bin\Debug\Server.pdb
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.About.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.ConfigIp.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Main_form.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.FormAllDetai.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Help.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Login.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.PinConfig.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Properties.Resources.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Time_auto.resources
+C:\Users\VND\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\bin\Debug\Server.exe.config
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\bin\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\bin\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.About.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.ConfigIp.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Main_form.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.FormAllDetai.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Help.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Login.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.PinConfig.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Properties.Resources.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.Time_auto.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160504\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\bin\Debug\Server.exe.config
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\bin\Debug\Server.exe
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\bin\Debug\Server.pdb
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.About.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.ConfigIp.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.Main_form.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.FormAllDetai.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.Help.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.Login.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.PinConfig.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.Properties.Resources.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.Time_auto.resources
+C:\Users\GaoTran\Dropbox\tabuchi\Server\20160516\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\20160520\Server\20160516\bin\Debug\Server.exe.config
+D:\20160520\Server\20160516\bin\Debug\Server.exe
+D:\20160520\Server\20160516\bin\Debug\Server.pdb
+D:\20160520\Server\20160516\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\20160520\Server\20160516\obj\Debug\Server.About.resources
+D:\20160520\Server\20160516\obj\Debug\Server.ConfigIp.resources
+D:\20160520\Server\20160516\obj\Debug\Server.Main_form.resources
+D:\20160520\Server\20160516\obj\Debug\Server.FormAllDetai.resources
+D:\20160520\Server\20160516\obj\Debug\Server.Help.resources
+D:\20160520\Server\20160516\obj\Debug\Server.Login.resources
+D:\20160520\Server\20160516\obj\Debug\Server.PinConfig.resources
+D:\20160520\Server\20160516\obj\Debug\Server.Properties.Resources.resources
+D:\20160520\Server\20160516\obj\Debug\Server.Time_auto.resources
+D:\20160520\Server\20160516\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\20160520\Server\20160516\obj\Debug\Server.exe
+D:\20160520\Server\20160516\obj\Debug\Server.pdb
+D:\20160520\Server\20160516\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\20160520\Server\20160521\bin\Debug\Server.exe.config
+D:\20160520\Server\20160521\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\20160520\Server\20160521\obj\Debug\Server.exe
+D:\20160520\Server\20160521\obj\Debug\Server.pdb
+D:\20160520\Server\20160521\bin\Debug\Server.exe
+D:\20160520\Server\20160521\bin\Debug\Server.pdb
+D:\20160520\Server\20160521\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\20160520\Server\20160521\obj\Debug\Server.About.resources
+D:\20160520\Server\20160521\obj\Debug\Server.ConfigIp.resources
+D:\20160520\Server\20160521\obj\Debug\Server.Main_form.resources
+D:\20160520\Server\20160521\obj\Debug\Server.FormAllDetai.resources
+D:\20160520\Server\20160521\obj\Debug\Server.Help.resources
+D:\20160520\Server\20160521\obj\Debug\Server.Login.resources
+D:\20160520\Server\20160521\obj\Debug\Server.PinConfig.resources
+D:\20160520\Server\20160521\obj\Debug\Server.Properties.Resources.resources
+D:\20160520\Server\20160521\obj\Debug\Server.Time_auto.resources
+D:\20160520\Server\20160521\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\20160520\Server\20160525\bin\Debug\Server.exe.config
+D:\20160520\Server\20160525\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\20160520\Server\20160525\obj\Debug\Server.exe
+D:\20160520\Server\20160525\obj\Debug\Server.pdb
+D:\20160520\Server\20160525\bin\Debug\Server.exe
+D:\20160520\Server\20160525\bin\Debug\Server.pdb
+D:\20160520\Server\20160525\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\20160520\Server\20160525\obj\Debug\Server.About.resources
+D:\20160520\Server\20160525\obj\Debug\Server.ConfigIp.resources
+D:\20160520\Server\20160525\obj\Debug\Server.Main_form.resources
+D:\20160520\Server\20160525\obj\Debug\Server.FormAllDetai.resources
+D:\20160520\Server\20160525\obj\Debug\Server.Help.resources
+D:\20160520\Server\20160525\obj\Debug\Server.Login.resources
+D:\20160520\Server\20160525\obj\Debug\Server.PinConfig.resources
+D:\20160520\Server\20160525\obj\Debug\Server.Properties.Resources.resources
+D:\20160520\Server\20160525\obj\Debug\Server.Time_auto.resources
+D:\20160520\Server\20160525\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\GaoTran\Desktop\20160525\20160525\bin\Debug\Server.exe.config
+C:\Users\GaoTran\Desktop\20160525\20160525\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\GaoTran\Desktop\20160525\20160525\obj\Debug\Server.exe
+C:\Users\GaoTran\Desktop\20160525\20160525\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160527\20160525\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160527\20160525\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160527\20160525\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160527\20160525\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160607\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160614\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160614\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160614\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160614\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160615\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160620\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160627\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160707\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.ConfigIp.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160725\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\bin\Debug\Server.exe
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\bin\Debug\Server.pdb
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\Tabuchi24_4_2016\Server\20160830\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.exe
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.pdb
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\bin\Debug\Server.exe
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\bin\Debug\Server.pdb
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\20172302\Tabuchi20160910\SourceCode\Server\20160830\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\ServerTabuchi\20170508\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.exe
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.pdb
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\ServerTabuchi\20170508\bin\Debug\Server.exe
+D:\Lab_BaoChay\ServerTabuchi\20170508\bin\Debug\Server.pdb
+D:\Lab_BaoChay\ServerTabuchi\20170508\obj\Debug\Server.IPconfigPLC.resources
+D:\codeVisual\20170508\bin\Debug\Server.exe.config
+D:\codeVisual\20170508\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\codeVisual\20170508\obj\Debug\Server.exe
+D:\codeVisual\20170508\obj\Debug\Server.pdb
+D:\codeVisual\20170508\bin\Debug\Server.exe
+D:\codeVisual\20170508\bin\Debug\Server.pdb
+D:\codeVisual\20170508\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\codeVisual\20170508\obj\Debug\Server.About.resources
+D:\codeVisual\20170508\obj\Debug\Server.IPconfigPLC.resources
+D:\codeVisual\20170508\obj\Debug\Server.Main_form.resources
+D:\codeVisual\20170508\obj\Debug\Server.FormAllDetai.resources
+D:\codeVisual\20170508\obj\Debug\Server.Help.resources
+D:\codeVisual\20170508\obj\Debug\Server.Login.resources
+D:\codeVisual\20170508\obj\Debug\Server.PinConfig.resources
+D:\codeVisual\20170508\obj\Debug\Server.Properties.Resources.resources
+D:\codeVisual\20170508\obj\Debug\Server.Time_auto.resources
+D:\codeVisual\20170508\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\bin\Debug\Server.exe.config
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.exe
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.pdb
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.About.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.IPconfigPLC.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.Main_form.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.FormAllDetai.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.Help.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.Login.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.PinConfig.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.Time_auto.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\bin\Debug\Server.exe
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\bin\Debug\Server.pdb
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.About.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.IPconfigPLC.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.Main_form.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.FormAllDetai.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.Help.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.Login.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.PinConfig.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.Properties.Resources.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.Time_auto.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.exe
+D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.pdb
+D:\server\My Product Name\serverTabuchi_20181213\bin\Debug\Server.exe.config
+D:\server\My Product Name\serverTabuchi_20181213\bin\Debug\Server.exe
+D:\server\My Product Name\serverTabuchi_20181213\bin\Debug\Server.pdb

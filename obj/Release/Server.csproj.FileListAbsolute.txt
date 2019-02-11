@@ -1,0 +1,79 @@
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.About.resources
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.ConfigIp.resources
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.Form1.resources
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.Help.resources
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.Login.resources
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\ASElab\Desktop\Server\bin\Release\Server.exe.config
+C:\Users\ASElab\Desktop\Server\bin\Release\Server.exe
+C:\Users\ASElab\Desktop\Server\bin\Release\Server.pdb
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.exe
+C:\Users\ASElab\Desktop\Server\obj\Release\Server.pdb
+D:\Tabuchi\17082015\Server 2\bin\Release\Server.exe.config
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.exe
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.pdb
+D:\Tabuchi\17082015\Server 2\bin\Release\Server.exe
+D:\Tabuchi\17082015\Server 2\bin\Release\Server.pdb
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.csprojResolveAssemblyReference.cache
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.About.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.ConfigIp.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.Form1.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.Help.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.Line_status.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.Login.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.Properties.Resources.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.Time_auto.resources
+D:\Tabuchi\17082015\Server 2\obj\Release\Server.csproj.GenerateResource.Cache
+D:\20160520\Server\20160516\bin\Release\Server.exe.config
+D:\20160520\Server\20160516\obj\Release\Server.csproj.ResolveComReference.cache
+D:\20160520\Server\20160516\obj\Release\Server.exe
+D:\20160520\Server\20160516\obj\Release\Server.pdb
+D:\20160520\Server\20160516\bin\Release\Server.exe
+D:\20160520\Server\20160516\bin\Release\Server.pdb
+D:\20160520\Server\20160516\obj\Release\Server.csprojResolveAssemblyReference.cache
+D:\20160520\Server\20160516\obj\Release\Server.About.resources
+D:\20160520\Server\20160516\obj\Release\Server.ConfigIp.resources
+D:\20160520\Server\20160516\obj\Release\Server.Main_form.resources
+D:\20160520\Server\20160516\obj\Release\Server.FormAllDetai.resources
+D:\20160520\Server\20160516\obj\Release\Server.Help.resources
+D:\20160520\Server\20160516\obj\Release\Server.Login.resources
+D:\20160520\Server\20160516\obj\Release\Server.PinConfig.resources
+D:\20160520\Server\20160516\obj\Release\Server.Properties.Resources.resources
+D:\20160520\Server\20160516\obj\Release\Server.Time_auto.resources
+D:\20160520\Server\20160516\obj\Release\Server.csproj.GenerateResource.Cache
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\bin\Release\Server.exe.config
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.csproj.ResolveComReference.cache
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.exe
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.pdb
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\bin\Release\Server.exe
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\bin\Release\Server.pdb
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.csprojResolveAssemblyReference.cache
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.About.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.IPconfigPLC.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.Main_form.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.FormAllDetai.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.Help.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.Login.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.PinConfig.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.Properties.Resources.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.Time_auto.resources
+D:\Lab_BaoChay\ServerTabuchi\serverTabuchi_20181213\obj\Release\Server.csproj.GenerateResource.Cache
+D:\server\My Product Name\serverTabuchi_20181213\bin\Release\Server.exe.config
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.csproj.ResolveComReference.cache
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.exe
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.pdb
+D:\server\My Product Name\serverTabuchi_20181213\bin\Release\Server.exe
+D:\server\My Product Name\serverTabuchi_20181213\bin\Release\Server.pdb
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.csprojResolveAssemblyReference.cache
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.About.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.IPconfigPLC.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.Main_form.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.FormAllDetai.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.Help.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.Login.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.PinConfig.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.Properties.Resources.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.Time_auto.resources
+D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.csproj.GenerateResource.Cache

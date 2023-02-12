@@ -1280,3 +1280,20 @@ D:\server\My Product Name\serverTabuchi_20181213\obj\Debug\Server.pdb
 D:\server\My Product Name\serverTabuchi_20181213\bin\Debug\Server.exe.config
 D:\server\My Product Name\serverTabuchi_20181213\bin\Debug\Server.exe
 D:\server\My Product Name\serverTabuchi_20181213\bin\Debug\Server.pdb
+H:\Tabuchi\serverTabuchi\bin\Debug\Server.exe.config
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.csproj.ResolveComReference.cache
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.exe
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.pdb
+H:\Tabuchi\serverTabuchi\bin\Debug\Server.exe
+H:\Tabuchi\serverTabuchi\bin\Debug\Server.pdb
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.csprojResolveAssemblyReference.cache
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.About.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.IPconfigPLC.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.Main_form.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.FormAllDetai.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.Help.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.Login.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.PinConfig.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.Properties.Resources.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.Time_auto.resources
+H:\Tabuchi\serverTabuchi\obj\Debug\Server.csproj.GenerateResource.Cache

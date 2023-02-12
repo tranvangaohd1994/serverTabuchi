@@ -1,3 +1,9 @@
+20230212:
+	+Thay đổi layout dây chuyển nên cần chuyển đổi một số line từ PLC này sang con PLC khác. 
+	Cụ thể từ  public static int[] L_PLC = new int[12] { 7, 7, 7, 7, 7, 3, 5, 4, 0, 0, 0, 0 }; 
+	sang public static int[] L_PLC = new int[12] { 7, 7, 7, 5, 7, 3, 7, 4, 0, 0, 0, 0 };
+
+
 sửa lỗi actual thỉnh thoảng không cộng
 xóa chức năng ghi log file
 xóa chức năng Pinconfig

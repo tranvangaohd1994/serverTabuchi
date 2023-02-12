@@ -16,7 +16,7 @@ namespace Server
         //su dung de kiem tra da duoc reset init trong ca san xuat hay chua
         public static bool[] initted = new bool[12] { true, true, true, true, true, true, true, true, true, true, true, true };
         public static bool[] reseted = new bool[12] { true, true, true, true, true, true, true, true, true, true, true, true };
-        public static int[] L_PLC = new int[12] { 7, 7, 7, 7, 7, 3, 5, 4, 0, 0, 0, 0 };
+        public static int[] L_PLC = new int[12] { 7, 7, 7, 5, 7, 3, 7, 4, 0, 0, 0, 0 };
         //fix 2017-05-11
         public static int SoPLC = 8;//so luong PLC quan li cac line chua ke 2 stock
         public static int soLine = 47;

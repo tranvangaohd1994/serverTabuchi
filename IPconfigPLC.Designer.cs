@@ -251,6 +251,7 @@
             // 
             // btnSaveConfigIP
             // 
+            this.btnSaveConfigIP.Enabled = false;
             this.btnSaveConfigIP.Location = new System.Drawing.Point(78, 291);
             this.btnSaveConfigIP.Name = "btnSaveConfigIP";
             this.btnSaveConfigIP.Size = new System.Drawing.Size(88, 33);

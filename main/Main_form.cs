@@ -61,7 +61,7 @@ namespace Server
                 auto_expN_h = (int)registryKey2.GetValue("Night Ex h");
                 auto_expN_m = (int)registryKey2.GetValue("Night Ex m");
             }
-            registryKey3.Close();
+            //registryKey3.Close();
             registryKey.Close();
             registryKey2.Close();
             currentUser.Close();

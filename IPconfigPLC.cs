@@ -31,15 +31,12 @@ namespace Server
         }
         void initView() {
             TextBox[] arrTextBox = { ip_plc1, ip_plc2, ip_plc3, ip_plc4, ip_plc5, ip_plc6, ip_plc7, ip_plc8, ip_plc9, ip_plc10 };
-            if ((DungChung.soLine % 7) != 0)
-                DungChung.SoPLC = DungChung.soLine / 7 + 1;
-            else DungChung.SoPLC = DungChung.soLine / 7;
-
+           
             for (int i = 0; i < DungChung.SoPLC; ++i)
             {
                 if (DungChung.diachiIP[i].Length > 0)
                 {
-                    arrTextBox[i].Text = DungChung.diachiIP[i];
+                    arrTextBox[i].Text = DungChung.diachiIP[i] + "-" + DungChung.L_PLC[i].ToString() + " line" ;
                 }
             }
             ip_plc_stock1.Text = DungChung.diachiIP[DungChung.SoPLC];
@@ -60,6 +57,7 @@ namespace Server
         }
         private void btnSaveConfigIP_Click(object sender, EventArgs e)
         {
+            return ;
             int numLine;
             try{
                  numLine = int.Parse(SumLine.Text);

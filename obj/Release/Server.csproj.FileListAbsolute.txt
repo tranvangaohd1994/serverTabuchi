@@ -77,3 +77,20 @@ D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.PinConfig.re
 D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.Properties.Resources.resources
 D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.Time_auto.resources
 D:\server\My Product Name\serverTabuchi_20181213\obj\Release\Server.csproj.GenerateResource.Cache
+H:\Tabuchi\serverTabuchi\bin\Release\Server.exe.config
+H:\Tabuchi\serverTabuchi\bin\Release\Server.exe
+H:\Tabuchi\serverTabuchi\bin\Release\Server.pdb
+H:\Tabuchi\serverTabuchi\obj\Release\Server.csprojResolveAssemblyReference.cache
+H:\Tabuchi\serverTabuchi\obj\Release\Server.csproj.ResolveComReference.cache
+H:\Tabuchi\serverTabuchi\obj\Release\Server.About.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.IPconfigPLC.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.Main_form.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.FormAllDetai.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.Help.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.Login.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.PinConfig.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.Properties.Resources.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.Time_auto.resources
+H:\Tabuchi\serverTabuchi\obj\Release\Server.csproj.GenerateResource.Cache
+H:\Tabuchi\serverTabuchi\obj\Release\Server.exe
+H:\Tabuchi\serverTabuchi\obj\Release\Server.pdb
